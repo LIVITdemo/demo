@@ -1,0 +1,8 @@
+<img src="demo1.jpg" width="1000" height="394" border="0" usemap="#map" />
+
+<map name="map">
+<area shape="poly" coords="60,188,130,193,148,273,76,275" alt="Link a LG" href="http://www.lg.com/" />
+<area shape="poly" coords="160,372,294,310,404,308,401,349,813,350,846,366,157,374" alt="Link a alfombra" href="http://alfombra.com" />
+<area shape="poly" coords="518,296,549,326,846,322,847,295,872,291,872,245,750,240,718,267,531,272" alt="Link a cama" href="http://cama.com" />
+<area shape="poly" coords="876,251,911,251,910,229,878,229" alt="Link lámpara no relativa" href="http://lampar.com" />
+</map>
